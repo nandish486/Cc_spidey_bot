@@ -21,11 +21,11 @@ make sure to update proxies!!
 ## Click below deploy button to host it on heroku.
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-## Deploy on Okteto
+## Deploy on spidey
 
 [![Develop on spidey](https://spidey.com/develop-spidey.svg)](https://cloud.spidey.com/deploy)
 
-You can contact me [tg](https://telegram.me/xbinner) my tg channel [here](https://telegram.me/spidey09)
+You can contact me [tg](https://telegram.me/spidey09) my tg channel [here](https://telegram.me/spidey09)
 Feel free to donate me ..
 
 ### Hosting on Heroku
