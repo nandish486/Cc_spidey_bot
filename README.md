@@ -23,8 +23,6 @@ make sure to update proxies!!
 
 ## Deploy on spidey
 
-[![Develop on spidey](https://spidey.com/develop-spidey.svg)](https://cloud.spidey.com/deploy)
-
 You can contact me [tg](https://telegram.me/spidey09) my tg channel [here](https://telegram.me/spidey09)
 Feel free to donate me ..
 
@@ -34,5 +32,5 @@ Feel free to donate me ..
 
 ## 🎯 Author
 
-- [@spidey09](https://www.github.com/Huziii09)
+- [@Huziii09](https://www.github.com/Huziii09)
 
