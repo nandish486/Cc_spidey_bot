@@ -3,18 +3,17 @@
 # SPIDEY CC Checker Bot
 
 A Telegram CC Checker Bot with hella lotta features.
-- **Anti-Spam System**
-    - Users have to wait a certain amount of time before performing the next task
-    - You can customize the time in config/config.php
-
 
 
   
 ### ⚙️ Deployment
 
+https://dashboard.heroku.com/apps/
+
+
 ### Hosting on Heroku
     
- [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fiam-NVN%2FSDMN_CheckerBot%2Fblob%2Fheroku-version)
+ [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Huziii09/Cc_spidey_bot)
  - Star and Fork this Repo
  - Click on the Above Shown ```Deploy To Heroku``` Button
  - Get Free Database from [Here](https://freesqldatabase.com)
