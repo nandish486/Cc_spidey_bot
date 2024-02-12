@@ -8,7 +8,7 @@ A Telegram CC Checker Bot with hella lotta features.
   
 ### ⚙️ Deployment
 
-https://dashboard.heroku.com/apps/
+/https://dashboard.heroku.com/new-app?template=
 
 
 ### Hosting on Heroku
