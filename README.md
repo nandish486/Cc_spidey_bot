@@ -21,7 +21,7 @@ A Telegram CC Checker Bot with hella lotta features.
  - Set Webhook to main.php in root folder of bot 
 
 ### Hosting on Heroku
-**[Click Here to go to Heroku Version]https://github.com/Huziii09/Cc_spidey_bot_CheckerBot/tree/heroku-version)**
+**[Click Here to go to Heroku Version]https://github.com/Huziii09/Cc_spidey_bot_CheckerBot/heroku-version)**
 
 
 ## 🎯 Author
