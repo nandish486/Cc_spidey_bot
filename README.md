@@ -10,24 +10,14 @@ A Telegram CC Checker Bot with hella lotta features.
 
 /https://dashboard.heroku.com/new-app?template=
 
-
-### Hosting on Heroku
-    
-
-A telegram bot to check credit cards. written in py.
-make sure to update proxies!!
-
-
 ## Click below deploy button to host it on heroku.
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-## Deploy on spidey
+## TELEGRAM
 
 You can contact me [tg](https://telegram.me/spidey09) my tg channel [here](https://telegram.me/spidey09)
 Feel free to donate me ..
 
-### Hosting on Heroku
-**[Click Here to go to Heroku Version]https://github.com/Huziii09/Cc_spidey_bot_CheckerBot/heroku-version)**
 
 
 ## 🎯 Author
