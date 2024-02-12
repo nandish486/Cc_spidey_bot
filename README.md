@@ -26,5 +26,5 @@ A Telegram CC Checker Bot with hella lotta features.
 
 ## 🎯 Author
 
-- [@Huziii09](https://www.github.com/Huziii09)
+- [@spidey09](https://www.github.com/Huziii09)
 
